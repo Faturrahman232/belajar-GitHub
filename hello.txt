@@ -6,3 +6,4 @@ target bukanlah suatu keharusan yang perlu dicapai, melainkan menjadi motivasi d
 
 latihan squashing
 
+lanjut latihan code reviews
